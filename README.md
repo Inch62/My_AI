@@ -121,4 +121,4 @@ The app is fully responsive and adapts to different screen sizes:
 
 ### Contact
 
-For any questions or issues, please contact **Inchara** at [your-email@example.com](mailto:your-email@example.com). Feel free to contribute :)
+For any questions or issues, please contact **Inchara** at [inchara2326@gmail.com](inchara2326@gmail.com). Feel free to contribute :)
