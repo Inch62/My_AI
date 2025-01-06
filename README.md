@@ -34,7 +34,7 @@ Follow these steps to run the application locally:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/my-ai.git
+   git clone  https://github.com/Inch62/My_AI.git
    cd my-ai
    ```
 
