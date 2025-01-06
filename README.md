@@ -101,13 +101,7 @@ The app is fully responsive and adapts to different screen sizes:
 - On mobile devices, the main card automatically adjusts its height to provide a better user experience.
 - Buttons, input fields, and other components are optimized for smaller screens.
 
-## Screenshots
 
-### Desktop View
-![Desktop View](screenshots/desktop-view.png)
-
-### Mobile View
-![Mobile View](screenshots/mobile-view.png)
 
 ## Future Enhancements
 
@@ -115,9 +109,6 @@ The app is fully responsive and adapts to different screen sizes:
 - Integrate advanced NLP for more intelligent chatbot responses.
 - Improve UI/UX with animations and themes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Credits
 
@@ -130,4 +121,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ### Contact
 
-For any questions or issues, please contact **Inchara** at [your-email@example.com](mailto:your-email@example.com).
+For any questions or issues, please contact **Inchara** at [your-email@example.com](mailto:your-email@example.com). Feel free to contribute :)
