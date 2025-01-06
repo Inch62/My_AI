@@ -5,7 +5,7 @@ import { GoogleGenerativeAI } from '@google/generative-ai';
  * Initialize the GoogleGenerativeAI client with your Gemini API key.
  * WARNING: This exposes your key in client-side code.
  */
-const genAI = new GoogleGenerativeAI('AIzaSyB1SxMja1AA1GrpCAWYTyawnRMUdHTP59M');
+const genAI = new GoogleGenerativeAI('Add-Gemini-API');
 
 /**
  * Get a handle on the Gemini model you want: e.g. "gemini-1.5-flash".
